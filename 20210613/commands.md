@@ -21,4 +21,7 @@ this ssh key helps to connect your local machine to interact with your github se
 
 `git reset <filename>` -> To move back indexed items to workspace
 
-`git push <repo> <branch>` -> To move the items from local server to remote server
+`git push <repo> <branch>` -> To move the committed items from local server to remote server
+
+`git pull` -> to move committed items froms remote to local server
+
