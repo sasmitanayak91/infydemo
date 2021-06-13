@@ -17,7 +17,8 @@ this ssh key helps to connect your local machine to interact with your github se
 
 `git add *` -> to add the workspace items into idex area
 
-`git commit` -> to push the indexed items to remote server
+`git commit` -> to push the indexed items to local server
 
+`git reset <filename>` -> To move back indexed items to workspace
 
-
+`git push <repo> <branch>` -> To move the items from local server to remote server
